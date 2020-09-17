@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3a85b32-ab0d-4470-b485-d6197a9048e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fU3HjYfrwKsGLevt2Vj13S7IIE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.BuddyFiner">
+    <configuration name="BuddyFiner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.desai.training.BuddyFiner" />
+      <module name="BruteForce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.desai.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.desai.training.Gcd" />
+      <module name="BruteForce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.desai.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Peak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.desai.training.Peak" />
+      <module name="BruteForce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.desai.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.desai.sorting.QuickSort" />
+      <module name="BruteForce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.desai.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coinProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.desai.training.coinProblem" />
+      <module name="BruteForce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.desai.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BuddyFiner" />
+      <item itemvalue="Application.Gcd" />
+      <item itemvalue="Application.Peak" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.coinProblem" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BuddyFiner" />
+        <item itemvalue="Application.Peak" />
+        <item itemvalue="Application.Gcd" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.coinProblem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3a85b32-ab0d-4470-b485-d6197a9048e0" name="Default Changelist" comment="" />
+      <created>1596258758104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596258758104</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom" timestamp="1599234093508">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1597068382903" />
+    <state width="1358" height="334" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.136.1920.1057@1680.136.1920.1057" timestamp="1597092315537" />
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1599234093508" />
+    <state width="1358" height="271" key="GridCell.Tab.0.center" timestamp="1599234093508">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1597068382903" />
+    <state width="1358" height="334" key="GridCell.Tab.0.center/0.23.1680.1027/1680.136.1920.1057@1680.136.1920.1057" timestamp="1597092315537" />
+    <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1599234093508" />
+    <state width="1358" height="271" key="GridCell.Tab.0.left" timestamp="1599234093508">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1597068382902" />
+    <state width="1358" height="334" key="GridCell.Tab.0.left/0.23.1680.1027/1680.136.1920.1057@1680.136.1920.1057" timestamp="1597092315537" />
+    <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1599234093508" />
+    <state width="1358" height="271" key="GridCell.Tab.0.right" timestamp="1599234093508">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1597068382903" />
+    <state width="1358" height="334" key="GridCell.Tab.0.right/0.23.1680.1027/1680.136.1920.1057@1680.136.1920.1057" timestamp="1597092315537" />
+    <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1599234093508" />
+    <state width="1358" height="334" key="GridCell.Tab.1.bottom" timestamp="1597932114302">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1597068383400" />
+    <state width="1358" height="334" key="GridCell.Tab.1.bottom/0.23.1680.1027/1680.136.1920.1057@1680.136.1920.1057" timestamp="1597092315538" />
+    <state width="1358" height="334" key="GridCell.Tab.1.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1597932114302" />
+    <state width="1358" height="334" key="GridCell.Tab.1.center" timestamp="1597932114301">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1597068383399" />
+    <state width="1358" height="334" key="GridCell.Tab.1.center/0.23.1680.1027/1680.136.1920.1057@1680.136.1920.1057" timestamp="1597092315538" />
+    <state width="1358" height="334" key="GridCell.Tab.1.center/0.23.1920.1177@0.23.1920.1177" timestamp="1597932114301" />
+    <state width="1358" height="334" key="GridCell.Tab.1.left" timestamp="1597932114301">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1597068383399" />
+    <state width="1358" height="334" key="GridCell.Tab.1.left/0.23.1680.1027/1680.136.1920.1057@1680.136.1920.1057" timestamp="1597092315538" />
+    <state width="1358" height="334" key="GridCell.Tab.1.left/0.23.1920.1177@0.23.1920.1177" timestamp="1597932114301" />
+    <state width="1358" height="334" key="GridCell.Tab.1.right" timestamp="1597932114302">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1597068383400" />
+    <state width="1358" height="334" key="GridCell.Tab.1.right/0.23.1680.1027/1680.136.1920.1057@1680.136.1920.1057" timestamp="1597092315538" />
+    <state width="1358" height="334" key="GridCell.Tab.1.right/0.23.1920.1177@0.23.1920.1177" timestamp="1597932114302" />
+    <state x="639" y="443" key="com.intellij.ide.util.TipDialog" timestamp="1600328599485">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="639" y="443" key="com.intellij.ide.util.TipDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1600328599485" />
+    <state x="625" y="394" width="670" height="676" key="search.everywhere.popup" timestamp="1597006781808">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="625" y="394" width="670" height="676" key="search.everywhere.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1597006781808" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/desai/training/StrInterleave.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/desai/sorting/QuickSort.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
